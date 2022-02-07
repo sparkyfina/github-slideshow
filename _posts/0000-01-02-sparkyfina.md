@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is Dino's Page
+Drop the gun, take the cannoli's
 Use the left arrow to go back!
